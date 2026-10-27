@@ -1,0 +1,6 @@
+{
+  "name": "Muslim Quran",
+  "description": "Your Daily Connection with the Quran — Premium Digital Quran Web App with Emerald & Gold theme, accurate verses, audio murottal, tafsir, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

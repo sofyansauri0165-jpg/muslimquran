@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-deep-emerald: #064E3B;
+    --color-forest-green: #022C22;
+    --color-emerald: #047857;
+    --color-metallic-gold: #D4AF37;
+    --color-soft-gold: #F5D782;
+    --color-ivory: #FFF8E7;
+    --color-warm-white: #F8FAF7;
+    --color-charcoal: #1F2937;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom Arabic Typography Class */
+.font-quran {
+  font-family: 'Amiri', 'Traditional Arabic', 'Scheherazade New', 'Lateef', serif;
+  direction: rtl;
+  text-align: right;
+  line-height: 2.4;
+  word-spacing: 2px;
+}
+
+/* Clear focus outline for accessibility */
+:focus-visible {
+  outline: 2px solid #D4AF37;
+  outline-offset: 2px;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Subtle clean scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #04785740;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #04785780;
+}

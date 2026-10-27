@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#064E3B" />
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#D4AF37" stroke-width="6" opacity="0.8" />
+  <circle cx="256" cy="256" r="208" fill="none" stroke="#D4AF37" stroke-width="2" stroke-dasharray="8 6" opacity="0.6" />
+  <path d="M 276 112 A 44 44 0 1 0 252 192 A 36 36 0 1 1 276 112 Z" fill="#D4AF37" />
+  <polygon points="268,140 272,150 282,152 274,158 277,168 268,162 259,168 262,158 254,152 264,150" fill="#F5D782" />
+  <path d="M 170 380 L 256 332 L 342 380 L 320 400 L 256 364 L 192 400 Z" fill="#022C22" stroke="#D4AF37" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 256 320 C 220 310 160 300 130 312 C 120 316 114 308 114 294 L 118 200 C 118 190 126 182 136 180 C 172 172 224 186 256 204 Z" fill="#FFF8E7" stroke="#D4AF37" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 145 214 C 175 206 215 216 238 226" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 142 238 C 172 230 215 240 238 250" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 142 262 C 172 254 215 264 238 274" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 256 320 C 292 310 352 300 382 312 C 392 316 398 308 398 294 L 394 200 C 394 190 386 182 376 180 C 340 172 288 186 256 204 Z" fill="#FFF8E7" stroke="#D4AF37" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 367 214 C 337 206 297 216 274 226" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 370 238 C 340 230 297 240 274 250" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 370 262 C 340 254 297 264 274 274" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M 256 200 L 256 324" stroke="#D4AF37" stroke-width="6" stroke-linecap="round" />
+  <circle cx="256" cy="324" r="5" fill="#F5D782" />
+  <path d="M 256 204 Q 262 250 272 280 L 282 274 L 278 296 L 260 290 Z" fill="#D4AF37" />
+</svg>
